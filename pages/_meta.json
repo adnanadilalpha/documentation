@@ -2,6 +2,8 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "update": "Update page intro",
+
   "about": {
     "title": "About",
     "type": "page"
